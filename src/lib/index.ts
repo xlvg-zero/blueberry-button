@@ -1,9 +1,13 @@
-import SampleComponent from './components/Sample';
-import BlueberryBtn from './components/BlueberryBtn';
+import BlueberryButton from './components/BlueberryButton';
+import RaspberryButton from './components/RaspberryButton';
+import GreenberryButton from './components/GreenberryButton';
+import WhiteberryButton from './components/WhiteberryButton';
 
 import './index.styl';
 
 export {
-  SampleComponent,
-  BlueberryBtn,
+  BlueberryButton,
+  RaspberryButton,
+  GreenberryButton,
+  WhiteberryButton,
 };
